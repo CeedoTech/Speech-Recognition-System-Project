@@ -1,2 +1,2 @@
-# Speech-Recognition-System-Project
-# Speech-Recognition-System-Project
+# Install the SpeechRecognition library by running pip install SpeechRecognition in your terminal
+
